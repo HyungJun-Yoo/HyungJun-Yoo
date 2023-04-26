@@ -1,4 +1,4 @@
-## Yoo Hyung Jun
+## Yoo Hyungjun
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:141321,100:000000&height=200&text=Thank%20you%20for%20coming.&fontColor=eeeeee&animation=fadeIn)
 
 ## SKILL
