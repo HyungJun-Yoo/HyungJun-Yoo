@@ -6,21 +6,18 @@
 ### 프론트엔드
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
+![NextJs](https://img.shields.io/badge/next.js-EEEEEE.svg?&style=for-the-badge&logo=Next.js&logoColor=000000)
 
 ### 상태관리
-![Redux](https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
 
 ### 백엔드
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
 
 ### 협업
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
@@ -43,6 +40,7 @@
 
 
 ### Complete
+- [Nextjs-Market - Nextjs@13 학습](https://github.com/HyungJun-Yoo/nextjs-market)
 - [Zero.GG - 롤 전적검색, 듀오찾기, LCK 팀스쿼드 및 일정을 확인할 수 있는 플랫폼](https://github.com/ZeroBGG)
 - [BaseCommunity - 취준생을 위한 취업 정보 제공 및 프로젝트를 구하거나 모집할 수 있는 플랫폼](https://github.com/CanDoIt-Team)
 
